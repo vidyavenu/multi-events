@@ -1,0 +1,13 @@
+{
+     "type": "record",
+     "namespace": "com.multievents",
+     "name": "ParkingGeolocation",
+     "version": "1",
+     "fields": [
+       { "name": "latitude", "type": "double", "doc": "Latitude of com.multievents space" },
+       { "name": "longitude", "type": "double", "doc": "Longitude of com.multievents space" },
+       { "name": "status", "type": "string", "doc": "Parking present or unoccupied" }
+     ]
+}
+
+

@@ -1,0 +1,43 @@
+{
+  "records": [
+    {
+      "key": "6191W",
+      "value": {
+        "st_marker_id": "6191W",
+        "magic_id": 1,
+        "bay_id": "3374",
+        "location": {
+          "latitude": "-37.80658679914876",
+          "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}",
+          "longitude": "144.9511118550584"
+        },
+        "lon": "144.9511118550584",
+        "lat": "-37.80658679914876",
+        "status": "Present"
+      }
+    },
+    {
+      "key": "99191W",
+      "value": {
+        "st_marker_id": "99191W",
+        "magic_id": 1,
+        "bay_id": "3374",
+        "location": {
+          "latitude": "-37.80658679914876",
+          "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}",
+          "longitude": "144.9511118550584"
+        },
+        "lon": "144.9511118550584",
+        "lat": "-37.80658679914876",
+        "status": "Present"
+      }
+    }
+  ]
+}
+
+
+
+
+
+
+

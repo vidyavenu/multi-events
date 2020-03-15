@@ -1,0 +1,23 @@
+{
+     "type": "record",
+     "namespace": "com.multievents",
+     "name": "ParkingAddress",
+     "version": "1",
+     "fields": [
+       { "name": "human_address", "type": "string", "doc": "Complete Address" },
+       { "name": "status", "type": "string", "doc": "Parking present or unoccupied" }
+     ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
